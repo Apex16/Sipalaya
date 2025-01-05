@@ -1,0 +1,22 @@
+div {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  
+}
+span{
+  background-color: rgb(87, 210, 157);
+   width: 100px;    /* not possible normally but we can do it using display property  same to block property if we use inlline there we cant set width or height*/
+   display: inline;
+   height: 100px;
+}
+
+.inline{            /* inline block is used to set width and height in inline element */
+ 
+  display: inline-block;  /* horizontally by default?*/
+  background-color: aqua;
+  width: 100px;
+  height: 200px; 
+}
+
+

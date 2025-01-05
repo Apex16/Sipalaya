@@ -1,0 +1,21 @@
+#first{
+  border: 2px solid red;
+height: 60px;
+width: 60px;
+margin: 20px;
+padding: 20px;
+}
+#second{
+  border: 2px solid blue;
+height: 30px;
+width: 60px;
+padding: 40px;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+/* *{  to remove default margin and padding */
+  /* margin: 0;
+  padding: 0;
+} */ 

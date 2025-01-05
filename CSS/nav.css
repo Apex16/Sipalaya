@@ -1,0 +1,17 @@
+nav{
+  background-color: balck;
+  color: white;
+  border: 2px solid red;
+  height: 20px;
+  padding: 10px;box-sizing: border-box;
+}
+a{
+  color: white;margin: 5px;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  text-align: right;
+}

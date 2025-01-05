@@ -1,0 +1,95 @@
+body{
+  display: flex; /* make the body a flex container{horizontal } */
+  margin: 0;
+  flex-direction: row; /* make the body a flex container{horizontal } */
+}
+ .bar .content h1{
+  /* padding-top: none; */
+  padding-left: 50px;
+  font-size: 30px;
+  
+}
+.bar .content .UI{
+  color:darkturquoise
+}
+.bar ul{ 
+  list-style-type: none;
+  padding-left: 50px;
+padding-bottom: 90px;/* padding-top: 60px; */
+}
+ .bar{
+  background-color: aliceblue;
+  margin-left: 20px;
+    /* padding-left: none;
+    padding-top: none; */
+    width: 900px;
+    line-height: 30px;
+    height: 800px;
+  }
+  .main {
+    width: 30%;
+    /* border: 1px solid aqua;  */
+    font-size: 20px;
+  }
+  
+ .bar p{
+    padding-left: 50px;
+  }
+ .bar .content{padding-top: 100px;
+}
+.bar .footer .ford{
+ color:darkturquoise}
+ .bar  .footer{padding-bottom: 40px;   
+  padding-left: 50px;}
+  
+  .main {
+    width: 80%; 
+    /* padding-bottom: 30px; no effect */
+    /* margin: 0 auto;  */
+    padding-top: 0px;
+    
+  }
+  
+  .main #designer {
+    padding-top: 50px; 
+    padding-left: 20px;
+    
+
+  }
+  
+  .main .main-content .blue {
+    color: blue;
+  }
+  
+  .main .main-content {
+    padding-left: 30px; 
+    font-size: 19px;
+  }
+  
+  .main #designer .header {
+    padding-top: 300px; 
+    padding-left: 1px;
+    /* padding-bottom: 70px; */
+    font-size: 70px;
+  }
+  
+.pic {
+  width: 4000px; 
+  height: 825px; 
+}
+
+
+.pic img {
+  width: 100%; 
+  height: 100%; 
+}
+
+.main .port {
+  border: 3px solid black; 
+  padding: 5px 10px; 
+  margin: 30px; /* Optional: Adjust space around the box */
+  margin-left: 50px;
+  width: 150px;
+  
+}
+

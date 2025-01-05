@@ -1,0 +1,12 @@
+Block-level elements
+    are used to structure the layout of a webpage. They take up the full width of their container by default and start on a new line.ou can place a block-level element inside another block-level element in HTML.<H>,P,DIV,LIST,SECTION,TABLE,FORM ETC.
+They cant be iside inline elements
+IMP:-span img,span i script textarea
+
+
+
+INLNE ELEMENTS
+               do not start on a new line and only take up as much width as necessary. They are generally used for styling or modifying small portions of content within a block-level element.
+                 
+margin ovelap,box sizing,
+DISPLAY:block,inline,inlne-block

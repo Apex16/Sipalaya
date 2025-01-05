@@ -1,0 +1,21 @@
+.parent{
+  border: 2px solid red;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: start;
+  padding: 20px;
+  column-gap: 62px;
+  row-gap: 62px;
+  height: 1000px;
+}
+
+.div{
+  height: 200px;
+  width: 200px;
+  border: 2px solid green;
+}
+
+
+/* grow, */
+

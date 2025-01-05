@@ -1,0 +1,11 @@
+* {
+  margin:0;
+  padding:0;
+}
+.nav {
+background-color: aqua;
+}
+.img {
+  width: 10px;
+  height: 10px;
+}

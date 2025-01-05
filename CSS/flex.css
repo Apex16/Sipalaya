@@ -1,0 +1,44 @@
+
+ /* align for vertical;justify fpr horizonttal */
+
+.parent{
+/* border: 2px solid black; */
+height: 200px;
+width:  200px;
+ display: flex;/* horizontally by default*/
+ 
+ flex-direction: row;
+                    /* flex-wrap: wrap;                         check this out */
+ /* flex-direction: row-reverse;
+ flex-direction: column;
+ flex-direction: column-reverse; */
+ 
+ justify-content: center; /*flex-start, center, space-around, space-between*/
+ /* justify-content: space-around; */
+ flex-wrap: wrap;
+ 
+ 
+ /* align-items: center; */
+ /* align-items:center ; */
+      
+ 
+                       /* align-content: ; */
+                       align-content: start;
+                      
+                       gap: 12px;
+                       /* column-gap: ; row-gap: ; */
+
+
+
+}
+
+.box{
+border: 2px solid rgb(226, 35, 35);
+height: 200px;
+width: 900px;
+background-color: aqua;
+
+}
+
+
+
