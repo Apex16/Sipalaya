@@ -1,0 +1,8 @@
+EVERTIME :
+git add .
+git commit -m "Your commit message"
+git push
+
+                                         NEW REPO :
+git init
+git remote add origin <repository-URL> git remote add origin https://github.com/username/my-new-project.git

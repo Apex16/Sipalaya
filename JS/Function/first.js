@@ -236,15 +236,24 @@
 
 
                                        //SUM OF SQUARE TILL N
-function a(n) {
-  let sum = 0; 
-  for (let i = 1; i <= n; i++) {
-    // sum += i * i; 
-    sum=sum+i*i   //same
+// function a(n) {
+//   let sum = 0; 
+//   for (let i = 1; i <= n; i++) {
+//     // sum += i * i; 
+//     sum=sum+i*i   //same
 
-  }
-  return sum; 
-}
+//   }
+//   return sum; 
+// }
 
-let result = a(4); 
-console.log(result); 
+// let result = a(4); 
+// console.log(result); 
+
+
+
+                                             // FIBONACCI
+ function a {
+let sum=0;
+for(i=)
+ }                                       
+ a()
